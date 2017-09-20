@@ -1,5 +1,11 @@
 # Some Simple set up instructions
 
+Preview of NVC Ready Branch:
+
+![alt text](https://photos.app.goo.gl/6cDrrxfQYqBf5xyx2)
+
+https://goo.gl/photos/PfyZ11wTwcsVeqE26
+
 Follow the instructions of react native set up from here 
 
 https://facebook.github.io/react-native/releases/next/docs/getting-started.html
